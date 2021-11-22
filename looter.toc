@@ -1,0 +1,9 @@
+## Interface: 20400
+
+## Title: Matthew Youngblood's Looter
+
+## Notes: List Items in Bags
+
+## Dependencies:
+
+looter.lua
